@@ -1,0 +1,20 @@
+{
+	"login":[
+		{
+			"text":"Chrome安装及默认设置",
+			"link":"http://baidu.com"
+		},
+		{
+			"text":"登录步骤",
+			"link":"http://baidu.com"
+		},
+		{
+			"text":"忘记密码",
+			"link":"http://baidu.com"
+		},
+		{
+			"text":"取消自动登录",
+			"link":"http://baidu.com"
+		}
+	]
+}

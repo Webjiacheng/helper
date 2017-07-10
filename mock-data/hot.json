@@ -1,0 +1,24 @@
+{
+	"hotList":[
+		{
+			"id":1,
+			"hot_text":"热门问题1",
+			"link":"http://www.baidu.com"
+		},
+		{
+			"id":2,
+			"hot_text":"热门问题2",
+			"link":"http://www.baidu.com"
+		},
+		{
+			"id":3,
+			"hot_text":"热门问题3",
+			"link":"http://www.baidu.com"
+		},
+		{
+			"id":4,
+			"hot_text":"热门问题4",
+			"link":"http://www.baidu.com"
+		}
+	]
+}
